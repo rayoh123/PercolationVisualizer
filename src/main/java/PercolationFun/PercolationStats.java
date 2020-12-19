@@ -1,6 +1,5 @@
-package hw2;
+package PercolationFun;
 
-import java.util.*;
 import java.lang.*;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;

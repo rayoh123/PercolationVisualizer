@@ -15,7 +15,7 @@
  *  with with site (0, 0) in the upper left-hand corner.
  *
  ******************************************************************************/
-package hw2;
+package PercolationFun;
 import java.awt.Font;
 
 import edu.princeton.cs.algs4.In;

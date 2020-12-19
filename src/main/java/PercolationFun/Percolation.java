@@ -1,4 +1,4 @@
-package hw2;
+package PercolationFun;
 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 import java.lang.*;

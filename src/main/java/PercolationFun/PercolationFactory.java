@@ -1,4 +1,4 @@
-package hw2;
+package PercolationFun;
 
 public class PercolationFactory {
     public Percolation make(int N) {

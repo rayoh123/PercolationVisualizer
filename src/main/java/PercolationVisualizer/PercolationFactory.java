@@ -1,4 +1,4 @@
-package PercolationFun;
+package PercolationVisualizer;
 
 public class PercolationFactory {
     public Percolation make(int N) {

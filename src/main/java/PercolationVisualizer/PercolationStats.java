@@ -1,4 +1,4 @@
-package PercolationFun;
+package PercolationVisualizer;
 
 import java.lang.*;
 import edu.princeton.cs.algs4.StdRandom;

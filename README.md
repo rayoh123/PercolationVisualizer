@@ -1,2 +1,2 @@
 # PercolationVisualizer
-Allows a visualization of percolation theory
+Allows a visualization of percolation theory. Run "java InteractivePercolationVisualizer <positive integer>"
